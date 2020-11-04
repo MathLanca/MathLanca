@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Banco Bv as Fullstack Developer**
 
-- 🌱 I’m currently learning **Flutte and python**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - 📫 How to reach me **matheus.lancaa@gmail.com**
 
