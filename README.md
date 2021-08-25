@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Lança</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Banco Bv as Fullstack Developer**
-
-- 🌱 I’m currently learning **Nodejs**
+- 🔭 I’m currently working on **Banco Bv as Mobile Developer**
 
 - 📫 How to reach me **matheus.lancaa@gmail.com**
 
