@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MathLanca" alt="MathLanca" /></p>
+
 <h1 align="center">Hi 👋, I'm Matheus Lança</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
