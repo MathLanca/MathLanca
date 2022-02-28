@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **matheus.lancaa@gmail.com**
 
-- 📄 Know about my experiences [Matheus CV](https://bit.ly/2WpInRe)
+- 📄 Know about my experiences [Matheus CV](https://bit.ly/35xBRwb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
